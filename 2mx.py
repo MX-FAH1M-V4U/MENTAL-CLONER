@@ -1,2 +1,2 @@
-from cl import menu
+from cl.so import menu
 menu()
